@@ -1,3 +1,4 @@
+## sapa
 ################################################################################
 ## Este script descarga datos diarios de precipitación histórica de CHIRPS v3 ##
 ## (producto derivado de ERA5).                                               ##
